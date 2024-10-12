@@ -3,7 +3,6 @@
 AI Interviewer bot that simulates a mock interview. Created using React, Python.
 
 
--
 
 
 # Getting Started with Create React App
